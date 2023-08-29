@@ -13,9 +13,9 @@ By enrolling in this professional certificate program encompassing all these enl
 7. Introduction to Big Data with Spark and Hadoop
 8. Data Engineering and Machine Learning using Spark
 9. Hands-on Introduction to Linux Commands and Shell Scripting
-10.Relational Database Administration
-11.ETL and Data Pipelines with Shell, Airflow, and Kafka.
-12.Getting started with Data Warehousing and BI Analytics
-13.Data Engineering Capstone Project
+10. Relational Database Administration
+11. ETL and Data Pipelines with Shell, Airflow, and Kafka.
+12. Getting started with Data Warehousing and BI Analytics
+13. Data Engineering Capstone Project
 
 You'll emerge with a potent arsenal of data engineering skills that will make you industry-ready agility while simultaneously solidifying your market value as a proficient data engineer.
